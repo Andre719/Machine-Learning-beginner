@@ -5,4 +5,4 @@ Running environment is under the Matlab. And there are many code files that file
 
 The xlxs file is my personal record about each code files in order to make comparisons between different algorithms.
 
-These algorithms are also refer to CS231n.
+These algorithms are also refer to CS231n. Using MNIST as data set.
